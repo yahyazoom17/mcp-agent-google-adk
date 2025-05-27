@@ -272,8 +272,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions and support:
 - Create an issue on GitHub
 - Check the [Google ADK documentation](https://developers.google.com/adk)
-- Review MCP server documentation for specific toolset issues
+- Review the MCP server documentation for specific toolset issues
 
 ---
 
-Built with ❤️ using Google ADK and Model Context Protocol
+Built with ❤️ using Google ADK and Model Context Protocol (MCP)
