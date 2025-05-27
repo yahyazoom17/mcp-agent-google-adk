@@ -246,20 +246,6 @@ export GOOGLE_ADK_DEBUG=true
 - `mcp==1.9.1` - Model Context Protocol implementation
 - `httpx-sse==0.4.0` - Server-Sent Events support
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Add tests if applicable
-5. Commit your changes (`git commit -m 'Add amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Resources
 
 - [Google ADK Documentation](https://developers.google.com/adk)
